@@ -113,8 +113,7 @@ This tool is for learning and preliminary contract screening only. It does not r
 pip install -r requirements.txt
 
 streamlit run app.py
-
-
+live demo: https://contract-risk-analyzer-vgqphapmcsa6nx25aeenyb.streamlit.app/
 
 Author
 
